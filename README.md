@@ -25,7 +25,7 @@ color.json
 ### Command Line
 
 ```
-$ ColorGen -i color.json
+$ ./ColorGen -i color.json -o ./
 ```
 
 ### Generate color.clr file
